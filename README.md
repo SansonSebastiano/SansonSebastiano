@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Sebastiano Sanson  
 
-<!--
-**SansonSebastiano/SansonSebastiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am an Italian Master's student in Computer Science, major in Artificial Intelligence, at the **University of Padua (UniPd)**, Italy.  
+💻 Passionate about programming, software engineering, mobile development and AI technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education  
+- **Bachelor's degree in Computer Science** @ University of Padua, Italy 
+- Attending **Master's degree in Computer Science** @ University of Padua, Italy
+
+---
+
+## 🔧 Skills  
+- **Languages**: C++, Dart, Python, HTML/CSS, JavaScript, SQL and more  
+- **Tools**: Git, TeX, VSCode, Firebase and more
+- **Frameworks**: Flutter (intermediate), Pytorch (beginner), Tensorflow (beginner) and more
+
+---
+
+## 🌟 Interests  
+- Full-stack mobile development
+- ML development
+
+---
+
+## 📬 Get in Touch  
+📧 Email: **[sanson.sebastiano.00@gmail.com]**  
+
+---
