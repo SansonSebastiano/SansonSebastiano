@@ -18,6 +18,11 @@
 
 ---
 
+## 📜 Certifications  
+- [**MLOps Tools: MLflow and Hugging Face**](https://www.coursera.org/learn/mlops-mlflow-huggingface-duke/)
+
+---
+
 ## 🌟 Interests  
 - Full-stack mobile development
 - ML development
