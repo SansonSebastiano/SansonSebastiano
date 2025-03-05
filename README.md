@@ -20,6 +20,7 @@
 
 ## 📜 Certifications  
 - [**MLOps Tools: MLflow and Hugging Face**](https://www.coursera.org/learn/mlops-mlflow-huggingface-duke/)
+- [**Generative AI with Large Language Models**](https://www.coursera.org/learn/generative-ai-with-llms)
 
 ---
 
